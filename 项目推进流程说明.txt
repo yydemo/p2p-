@@ -1,4 +1,14 @@
+项目推进流程说明 / Project Roadmap
+（中英双语，先中文后英文 / Bilingual: Chinese first, then English）
+
 1、拆分BitComet源代码，提取p2p传输内容源代码。
+1. Break down the BitComet source code and extract the source code for P2P content transfer.
+
 2、研究分布式计算原理，并形成计算代码和提交代码。
+2. Study distributed computing principles, and produce the computation code and the submission code.
+
 3、开发linux客户端或手机App客户端，进行分拣传输计算demo。
+3. Develop a Linux client or a mobile app client, and build a demo of splitting, transferring and computing tasks.
+
 4、建立服务器端，用户用户计算需求的传播，种子的传播，计算缓存等。
+4. Build the server side, used for distributing users' computing demands, distributing seeds (torrents), computation caching, etc.
